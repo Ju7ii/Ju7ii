@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on my personal portfolio website<br>
+👨‍💻 I’m currently working on: <a href="https://github.com/Ju7ii/Portfolio">my portfolio website</a><br>
 🎓 Currently learning php / laravel<br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/julian-rok/">LinkedIn</a><br>
 💬 Any questions? Visit <a href="https://julianrok.de">my website</a> or leave me a message<br>
