@@ -1,6 +1,6 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on: <a href="https://github.com/Ju7ii/Portfolio">my portfolio website</a><br>
-🎓 Currently learning php / laravel<br>
+👨‍💻 I’m currently working on: <a href="https://github.com/Ju7ii/Portfolio">Portfolio Website</a>, <a href="https://github.com/Ju7ii/workout-zone">Workout Zone</a><br>
+🎓 Currently learning: PHP (Laravel)<br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/julian-rok/">LinkedIn</a><br>
 💬 Any questions? Visit <a href="https://julianrok.de">my website</a> or leave me a message<br>
 ⚡ Fun fact: "Moonlight is still sunlight"
