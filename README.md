@@ -1,15 +1,9 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on: <a href="https://github.com/Ju7ii/Portfolio">Portfolio Website</a>, <a href="https://github.com/Ju7ii/workout-zone">Workout Zone</a><br>
+👨‍💻 I’m currently working on: <a href="https://github.com/Ju7ii/quiz-api">Quiz-API</a>, <a href="https://github.com/Ju7ii/Brain-Busters">Brain-Busters</a>, <a href="https://github.com/Ju7ii/workout-zone">Workout Zone</a><br>
 🎓 Currently learning: Node.js / PHP (Laravel)<br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/julian-rok/">LinkedIn</a><br>
 💬 Any questions? Visit <a href="https://julianrok.de">my website</a> or leave me a message<br>
 ⚡ Fun fact: "Moonlight is still sunlight"
-
-
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-rok) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ju7i) 
-
 
 
 # 💻 Tech Stack:
@@ -40,6 +34,8 @@
 
 ### Tools
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ju7i) 
 
 
 ### Hardware
@@ -54,3 +50,4 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Ju7ii&icon=0&color=0)](https://visitcount.itsvg.in)
+
