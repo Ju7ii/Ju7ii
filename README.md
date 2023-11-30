@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 I’m currently working on: <a href="https://github.com/Ju7ii/quiz-api">Quiz-API</a>, <a href="https://github.com/Ju7ii/Brain-Busters">Brain-Busters</a>, <a href="https://github.com/Ju7ii/workout-zone">Workout Zone</a><br>
-🎓 Currently learning: Node.js / PHP (Laravel)<br>
+🎓 Currently learning: React / Node.js / PHP (Laravel)<br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/julian-rok/">LinkedIn</a><br>
 💬 Any questions? Visit <a href="https://julianrok.de">my website</a> or leave me a message<br>
 ⚡ Fun fact: "Moonlight is still sunlight"
