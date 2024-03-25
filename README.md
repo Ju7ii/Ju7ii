@@ -6,9 +6,11 @@
 
 <h1 align="center">About Me:</h1>
 
-<p align="center">🔭 I’m currently working on:  <a href="https://github.com/Ju7ii/Link-Slice">Link-Slice</a></p>
-<p align="center">🌱 I’m currently learning:    React, Node.js</p>
-<p align="center">👨‍💻 More about me:             <a href="https://julianrok.de">Portfolio Website</a></p>
+<p align="center">I’m currently working on: <a href="https://github.com/Ju7ii/Link-Slice">Link-Slice</a></p>
+<br>
+<p align="center">I’m currently learning: React, Node.js</p>
+<br>
+<p align="center">More about me: <a href="https://julianrok.de">Portfolio Website</a></p>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
